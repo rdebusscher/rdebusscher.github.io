@@ -20,11 +20,12 @@ primarylinks:
 skills:
  - Java
  - Java EE
- - JSF
- - PrimeFaces
+ - PrimeFaces / JSF
  - JPA
  - JAX-RS
- - OAuth2 / Open Id Connect
+ - OAuth2 / OpenId Connect
+ - JWT
+ - CDI / EJB 3.x
  - Tech Architecture
 
 
@@ -38,13 +39,23 @@ roles:
    end: Ongoing
    employer: C4J
    description: Various Web applications for customers with Java EE 7.
+ - title: Expert member of JSR-375 : Java EE Security API
+   start: feb 2015
+   end: oct 2017
+   employer: Individual
+   description: Design and implement the new Java EE Security API and implementation together with the Expert group.
+ - title: Java Developer
+   start: may 1998
+   end: april 2011
+   employer: (Real) Dolmen
+   description: Various applications for customers (First Oracle Forms, later with Java EE).
  
 
 #Education is required
 education:
  - level: Bio ingenieur
-   date: 1998
-   subject: Artificial Intelligence and Computer Science
+   date: 1993
+   subject: Agriculture and gen technology
    school: K.U.Leuven (Belgium)
 
 #This section is optional (as is the image link below)
@@ -59,4 +70,8 @@ github:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   TODO
+   How should my next job look like?  
+   Design the Technical solution and help implementing a (Web) Application using Java EE/Jakarta EE and/or MicroProfile.io.  
+   Implement authentication and authorization using OpenIdConnect / Oauth2 / JBoss Keycloack / ...  
+   Since I don't know anything about Spring framework, JavaScript frameworks (Angular, ReactJS, vue.js, ...) or Docker/Kubernetes I can't help when project uses these.  
+   Coach other team members to have the best possible solution in terms of code quality.
