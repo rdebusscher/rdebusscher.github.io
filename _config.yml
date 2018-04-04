@@ -39,7 +39,7 @@ roles:
    end: Ongoing
    employer: C4J
    description: Various Web applications for customers with Java EE 7.
- - title: Expert member of JSR-375 : Java EE Security API
+ - title: Expert member of JSR-375 (Java EE Security API)
    start: feb 2015
    end: oct 2017
    employer: Individual
