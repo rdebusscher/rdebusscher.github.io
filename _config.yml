@@ -20,6 +20,7 @@ primarylinks:
 skills:
  - Java
  - Java EE
+ - Microprofile.io
  - PrimeFaces / JSF
  - JPA
  - JAX-RS
@@ -63,6 +64,8 @@ education:
 #List of interesting Github repo/projects to include - optional
 github:
  - atbashEE/atbash-octopus
+ - atbashEE/atbash-config
+ - atbashEE/jsr375-extensions
 
 #Stackoverflow flair is optional
 
@@ -70,8 +73,10 @@ github:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-   How should my next job look like?  
-   Design the Technical solution and help implementing a (Web) Application using Java EE/Jakarta EE and/or MicroProfile.io.  
-   Implement authentication and authorization using OpenIdConnect / Oauth2 / JBoss Keycloack / ...  
-   Since I don't know anything about Spring framework, JavaScript frameworks (Angular, ReactJS, vue.js, ...) or Docker/Kubernetes I can't help when project uses these.  
-   Coach other team members to have the best possible solution in terms of code quality.
+   How should my next job look like?  <br/>
+   Design the Technical solution and help implementing a (Web) Application using Java EE/Jakarta EE and/or MicroProfile.io.   <br/> 
+   Implement authentication and authorization using OpenIdConnect / Oauth2 / JBoss Keycloack / ...    <br/>
+   Since I don't know anything about Spring framework, JavaScript frameworks (Angular, ReactJS, vue.js, ...) or Docker/Kubernetes I can't help when project uses these.   <br/> 
+   Coach other team members to have the best possible solution in terms of code quality.    <br/>
+   Belgium : Brussel / Antwerp / Hasselt Area or remote  <br/>
+   Company who embrace and participate in OpenSource
